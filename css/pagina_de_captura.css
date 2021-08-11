@@ -1,43 +1,47 @@
+/* Todos os elementos da página */
 *{
     padding: 0;
     margin: 0;
 }
 
+/* Elemento de tag <body> */
  body{
 
     font-family: Arial, Helvetica, sans-serif;
      background-color: black; 
 } 
 
+/* Elemento do container que abarca todo código */
 .container{
 
     max-width: 1000px;
     margin: auto;
 }
 
+/* Elemento da barra superior da página*/
 header{
 
     background-color: #48c5ce;
     text-align: center;
     color: white;
     padding: 10px;
-
 }
 
+/* Elemento de texto da barra superior da página */
 .title{
 
     font-size: 26px ;
 }
 
+/* Elemento de texto da barra superior da página */
 section{
 
     padding: 20px;
     background-image: url(../imagem/people.jpg);
     background-size: cover;
     overflow: hidden;
-    
-
 }
+
 
 .formContainer{
 
