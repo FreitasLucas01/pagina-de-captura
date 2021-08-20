@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#demo"> Demonstração</a> •
-    <a href="#func"> Funcionalidade</a> •
+    <a href="#func"> Funcionalidades</a> •
     <a href="#tec"> Tecnologias</a> •
     <a href="#projeto"> Projeto</a> 
     <br> <br> 
