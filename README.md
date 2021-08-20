@@ -9,8 +9,8 @@
 
 <h2 id="demo"> 📷 Demonstração </h2>
 
-<h2 align="center"> <img alt="Readme" title="Readme" src=../gif/captura.gif> </h2>
-<h2 align="center"> <img alt="Readme" title="Readme" src=../gif/captura3.gif> </h2>
+<h2 align="center"> <img alt="Readme" title="Readme" src=./gif/captura.gif> </h2>
+<h2 align="center"> <img alt="Readme" title="Readme" src=./gif/captura2.gif> </h2>
 
 <h2 id="func"> ⚙ Funcionalidades </h2>
 
