@@ -30,4 +30,4 @@
 <br>
 <hr>
 <br>
-<p> Criado por Lucas Freitas | <a href="https://www.linkedin.com/in/lucasfreitas01/"> Faça contato </a> <p>
+<p> Criado por Lucas Freitas | <a href="https://www.linkedin.com/in/lucasfreitas01/"> Faça contato comigo</a> <p>
